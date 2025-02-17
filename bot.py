@@ -1,2 +1,4 @@
 if __name__ == '__main__':
-	print('Hello, lets chat!')
+	d = 'Hello, lets chat!'
+	for i in d:
+	    print(i)  
