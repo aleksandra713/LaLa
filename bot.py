@@ -1,5 +1,4 @@
 if __name__ == '__main__':
+	import random
 	d = 'Hello, lets chat!'
-	for i in d:
-	    print(i)
-	    print('Happy!')
+	print(random.choice(d))
